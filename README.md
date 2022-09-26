@@ -1,2 +1,2 @@
 # whatsapp_bot_twilio
-Jogo "Pedra, papel e tesoura" pelo chat do whatsapp utilizando api da twilio e NodeJS
+Bot de whatsapp para agendamentos de uma barbearia utilizando cloud functions, realtime database e a api de comunicação twilio
